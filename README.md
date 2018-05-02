@@ -1,5 +1,4 @@
 # FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018
-# FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018
 ![FORMAÇÃO JAVASCRIPT MESTRE JEDI - 2018](http://www.digitalcodigos.com.br/img-curso-js-v7-750-422.png)
 
 # Curso de JavaScript Completo
