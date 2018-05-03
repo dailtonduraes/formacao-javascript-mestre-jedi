@@ -1,6 +1,6 @@
 # Missão Estelar JavaScript Mestre Jedi
 
-Olá Jovem Nerd Padawan!
+Olá Jovem Nerd Padawan!!!
 
    Seja bem-vindo a equipe estratégica para Missões Estelares JS.
 O objetivo de nossas missões é fazer você vivenciar a prática e aventuras JS, desta forma você irá aprender a controlar a força JS para que ela sempre esteja com você!!!
@@ -14,3 +14,4 @@ Faça um Fork do projeto Formação JavaScript Mestre Jedi e faça parte de noss
 - https://github.com/fernandolimati
 - https://github.com/gdcamargo
 - https://github.com/odaircori
+- https://github.com/dailtonduraes
